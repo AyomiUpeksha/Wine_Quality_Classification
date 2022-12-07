@@ -3,6 +3,7 @@
 
 <p><h3> Supervised | Classification | R </h3>
 <p> outliers are handled using IQR (Data Wrangling)
+  
 - KNN Algorithm
 - Naive Bayes Classifier
 - Decission Trees
